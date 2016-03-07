@@ -7,7 +7,8 @@
 15. gerard.jiang事情安排
 16. 找出miracast相关模块快速理清问题的方法(延时，卡顿等)
 17. 目标管理--分享4月份
-19. ucos调查
 22. 了解mi项目管理情况
 23. 看看课内mantis平均解问题时间长的原因
-24. 处理ipv6 RR和samab RR
+25. 传屏hdcp公司是否有现成的
+26. 评估DDI porting
+28. RR每周要review一次代码
