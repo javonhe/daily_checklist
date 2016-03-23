@@ -1,6 +1,69 @@
-﻿1. 课例会
+﻿3.7
+1. 课例会
 2. RR 1819会议
 3. 整理一周mantis
 4. 烽火问题
 5. 处理RR：ipv6
 6. 处理RR：samba优化
+
+3.8
+1. samba优化会议
+2. livecap rr讨论
+3. 指导winston
+4. review RR
+5. review iptv dhcp规范
+6. 银行卡打印
+7. rtx咨询
+8. dhcp原理了解
+
+3.9
+1. review 双网卡RR
+
+3.10
+STB网络问题
+申请活动经费
+申请RR延期
+
+
+3.14
+reivew napi se output
+双网卡rr延期
+整理一周mantis
+例会
+whs整理
+gerard谈话
+
+
+3.15
+gerard谈话
+老大谈话
+review rr
+
+3.17
+mtk mantis review
+rr1819 code review
+创维miracast问题
+
+3.18
+MTK会议
+
+3.21
+整理一周mantis
+例会
+
+3.22
+mantis修改会议
+整理wifi test case
+
+3.23
+RR review会议
+mantis修改会议
+整理wifi/bt培训内容
+整理usb培训内容
+整理招人申请
+
+
+
+
+
+
