@@ -1,4 +1,5 @@
-﻿3. mcast延时问题
+﻿
+3. mcast延时问题
 4. mcast代码review
 8. mi上面增加mcast测项----统计出现版本不对齐导致的问题
 9. 各模块介绍和使用文档，弄好并上到whs上面
@@ -11,8 +12,31 @@
 25. 传屏hdcp公司是否有现成的
 28. RR每周要review一次代码
 29. 公版socket buffer加大
-30. MTK 4k miracast确定时间
-31. 季度活动报销
-32. MTK会议准备
 33. 课内培训叫上PM
-34. hr申请招人
+35. livecap转手
+36. audio影响网络带宽
+38. wifi/BT自学计划
+40. miracast测试PV事宜
+42. MTK 带宽，低功耗，连接速度确认
+43. open issue和joan的whs审查
+47. wifi/bt问题催促MTK解决
+48. bt/wifi wake up和reset是高电平有效还是低电平有效
+54. 总结pppoe问题，考虑改善方法
+55. 任职资格认证
+56. 汇总需要MTK解决的问题
+57. 技术分享，并按格式做好记录
+58. 总结emac目前遇到的问题
+59. 季度约谈
+60. 追一下MTK WiFi问题
+61. SZ搭建分析适配性问题的环境
+62. 与MTK商务谈判情况
+63. MTK与MSTAR IT进展
+64. 串一下mm和hdcp的人
+65. Macan SN/AN porting
+66. Maxim AN porting
+69. 638 image是否ok
+70. 538 image是否ok
+80. 838 确认WiFi/BT特性
+81. 838板子用的鑫智的模组，校正用的bin档和MTK确认
+82. Maxim WiFi/BT driver自动编译
+

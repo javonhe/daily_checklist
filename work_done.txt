@@ -54,6 +54,7 @@ MTK会议
 3.22
 mantis修改会议
 整理wifi test case
+review rr
 
 3.23
 RR review会议
@@ -61,6 +62,86 @@ mantis修改会议
 整理wifi/bt培训内容
 整理usb培训内容
 整理招人申请
+
+3.24
+Maxim对wifi/bt需求调查
+双网卡RR code review
+
+3.28
+整理一周mantis
+例会
+wifi team会议
+scott的rr review
+
+3.30
+MTK issue会议
+usb培训
+rr review会议
+
+4.12
+HQ STB mantis image问题push
+列出MTK会议需要讨论的问题
+例会
+SE培训
+
+4.13
+rr review
+课内问题了解
+出差准备
+ODC
+w14问题review
+STB静态ip设置问题
+
+4.14
+周报
+测试与MTK远程培训
+新人培训计划
+
+
+4.15
+ipc评估
+rr code review
+创维蓝牙问题
+
+4.25
+了解gmac优化的事情
+BT blueangle
+7662 bluz支持
+
+4.28
+与arex讨论与MTK合作
+802.11培训
+与wenjing讨论review加入我们的人
+
+5.4
+samab rr的mantis遗留问题
+cast tv wifi/bt
+招聘邮件筛选
+gmac优化情况
+
+5.5
+maxim gpio确定
+
+5.9
+面试
+jx汇报WiFi team目前状况
+例会
+
+5.10
+Maxim的miracast
+创维csr
+castTV了解
+sniffer driver
+
+5.11
+RR关闭
+I1规划
+mm培训
+培训文档
+Maxim的miracast
+面试
+
+
 
 
 
